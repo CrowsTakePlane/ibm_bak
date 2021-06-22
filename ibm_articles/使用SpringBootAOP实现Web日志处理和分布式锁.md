@@ -289,7 +289,7 @@ public @interface DistributeLock {
 
 Show moreShow more icon
 
-其中， `key` 为分布式所的 `key` 值， `timeout` 为锁的超时时间，默认为 5， `timeUnit` 为超时时间的单位，默认为秒。
+其中， `key` 为分布式锁的 `key` 值， `timeout` 为锁的超时时间，默认为 5， `timeUnit` 为超时时间的单位，默认为秒。
 
 ### 注解参数解析器
 
